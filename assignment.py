@@ -7,3 +7,5 @@
 #
 #     https://github.com/uarizona-2022spring-phys105a/phys105a/blob/main/01/Handson.ipynb
 #
+
+print('hello world')
